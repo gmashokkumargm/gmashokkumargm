@@ -1,6 +1,6 @@
 My Motivational Story:
 
-After completion of my graduation, I was thinking about what all the companies are trying to do. And I found that most of the companies are delivering services to their clients or products to their customers but the problem here is they are trying to deliver a high-quality standard product. This inspires me that every company needs QA Engineer with desired skills to perform the QA activities to make sure that they are delivering top-quality products. So I have started improving my knowledge and skills on QA and now it's been 4.5 years of experience as a QA Engineer.
+After completion of my graduation, I was thinking about what all the companies are trying to do. And I found that most of the companies are delivering services to their clients or products to their customers but the problem here is they are trying to deliver a high-quality standard product. This inspires me that every company needs QA Engineer with desired skills to perform the QA activities to make sure that they are delivering top-quality products. So I have started improving my knowledge and skills on QA and now it's been 4.7 years of experience as a QA Engineer.
 
 About me:
 
