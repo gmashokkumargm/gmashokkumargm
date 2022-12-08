@@ -9,7 +9,7 @@ still exploring new skills.
 
 🔷 𝐀𝐛𝐨𝐮𝐭 𝐦𝐞:
 
-I’m an ISTQB Certified Software Testing Engineer with 4.8 years of experience in Manual, Automation,
+I’m an ISTQB Certified Software Testing Engineer with 6+ years of experience in Manual, Automation,
 and API testing. I have explored various tools such as Cypress, WebDriverIO, Puppeteer, and Selenium
 for Web applications, RestAssured for API Automation, and Appium for mobile automation. Having Java, 
 Javascript, and Typescript programming language experience. Some basic knowledge on performance 
