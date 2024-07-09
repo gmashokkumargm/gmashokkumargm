@@ -1,53 +1,46 @@
 🔷 𝐌𝐲 𝐌𝐨𝐭𝐢𝐯𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐒𝐭𝐨𝐫𝐲:
 
-Usually, if I buy any product I will always check whether that product is quality and user-friendly. 
-So when I was looking for a career opportunity my past story inspires me that QA will be the best 
-choice for me to get job satisfaction, and also every company needs QA Engineers with the desired 
-skills to perform Quality Assurance activities to ensure they are delivering top-quality products. 
-So I have started improving my knowledge and skills in Quality Assurance, Test Automation, and 
-still exploring new skills.
+Every purchase I make reflects my commitment to quality and user-friendliness. This ethos guided me to my career choice. Drawing inspiration from my past, 
+I realized that Quality Assurance (QA) is my path to job satisfaction. Every company seeks QA Engineers with the right skills 
+to ensure impeccable product quality. This realization motivated me to enhance my expertise in QA, Test Automation, and beyond.
 
 🔷 𝐀𝐛𝐨𝐮𝐭 𝐦𝐞:
 
-I’m an ISTQB Certified Software Testing Engineer with 6+ years of experience in Manual, Automation,
-and API testing. I have explored various tools such as Cypress, WebDriverIO, Puppeteer, and Selenium
-for Web applications, RestAssured for API Automation, and Appium for mobile automation. Having Java, 
-Javascript, and Typescript programming language experience. Some basic knowledge on performance 
-testing with JMeter, AWS, Docker, Linux, etc. I have designed and developed my own automation 
-framework from the scratch. One of my favorite functional areas is automating the application which 
-reduces the repetitive manual work.
+I'm an ISTQB Certified Software Testing Engineer with over 7 years of proficiency in Automation, Manual, and API testing. 
+I've explored diverse tools like Cypress.io, WebDriver.io, Playwright, CodeceptJS, Selenium, RestAssured, and Appium. 
+My programming proficiency includes Java, Javascript, and Typescript. I possess insight into performance testing (JMeter), Docker, 
+and Linux. I've designed my automation framework and relish automating tasks to eliminate redundancy.
 
 🔷 𝐖𝐡𝐲 𝐲𝐨𝐮 𝐬𝐡𝐨𝐮𝐥𝐝 𝐡𝐢𝐫𝐞 𝐦𝐞:
 
 If you are looking for a flexible person who will adapt easily to any work environment, culture, 
 and technical aspects, you are at the right profile. From my experience, you will get a user-friendly, 
-high skilled who will help to deliver quality products and Improve the test automation process based on 
+highly skilled who will help to deliver quality products and Improve the test automation process based on 
 high-quality coding standards.
 
 🔷 𝐌𝐲 𝐄𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 𝐚𝐧𝐝 𝐒𝐤𝐢𝐥𝐥𝐬:
 
-👉 Experience in WebdriverIO tool with JavaScript (Mocha & Cucumber).
+👉 Experienced in Cypress automation tool with JavaScript/Typescript.
 
-👉 Experience in Visual Testing and Performance Audits for websites using WebDriverIO.
+👉 Experienced in Playwright and CodeceptJS automation tools with JavaScript/Typescript.
 
-👉 Experience in Cypress automation tool with JavaScript (Mocha & Cucumber).
+👉 Experienced in WebdriverIO tool using JavaScript/Typescript.
 
-👉 Experience in Selenium with Java, TestNG, Cucumber(BDD), Page Factory, Maven, etc.
+👉 Experienced in Visual Testing and Performance Audits using Playwright, CodeceptJS, and WebDriverIO.
 
-👉 Good knowledge of Puppeteer and CodeceptJS automation tools.
+👉 Well-versed in Selenium with Java, TestNG, Cucumber (BDD), Page Factory, and Maven.
 
-👉 Experience in mobile automation for both Android and iOS applications.
+👉 Accomplished in mobile automation for Android and iOS apps.
 
-👉 Experience in API testing with RestAssured and Postman tools.
+👉 Competent in API testing with RestAssured and Postman.
 
-👉 Experience in Maven, Npm, GitHub, Jenkins, and GitHub Actions (CI/CD tool).
+👉 Familiar with Maven, Npm, GitHub, Jenkins, GitHub Actions, and CircleCI.
 
-👉 Experience in performance testing with the JMeter.
+👉 Experienced in performance testing with the JMeter.
 
 👉 Good knowledge of Amazon Web Service (AWS), Docker, and Ansible.
 
 𝑬𝒎𝒂𝒊𝒍: 𝒈𝒎𝒂𝒔𝒉𝒐𝒌.𝒎𝒐𝒉𝒂𝒏@𝒈𝒎𝒂𝒊𝒍.𝒄𝒐𝒎
 
 Best regards,
-
-Ashokkumar GM.
+Ashokkumar G.M.
