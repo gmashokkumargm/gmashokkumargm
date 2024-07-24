@@ -40,7 +40,7 @@ high-quality coding standards.
 
 👉 Good knowledge of Amazon Web Service (AWS), Docker, and Ansible.
 
-𝑬𝒎𝒂𝒊𝒍: 𝒈𝒎𝒂𝒔𝒉𝒐𝒌.𝒎𝒐𝒉𝒂𝒏@𝒈𝒎𝒂𝒊𝒍.𝒄𝒐𝒎
+𝑬𝒎𝒂𝒊𝒍: gmashokkumar.careers@gmail.com
 
 Best regards,
 
